@@ -6,18 +6,18 @@
 </h1>
 
 <div align="center"> 
+    <a href="http://github.com/toptech126?tab=followers">
+    <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
     <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=topdev0215&color=blue"></a>
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/topdev0215?color=4C1&logo=github"></a>
+    <img alt="Followers" src="https://img.shields.io/github/followers/toptech126?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/topdev0215/topdev0215" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/topdev0215/topdev0215?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
 </div>
 <div align="center">
 <!-- website -->
-    <a href="https://www.linkedin.com/in/alessandro-corradini-54b3492b6/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/kaori-fujio-b534a9303/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
     </a>
-    <a href="https://corradini.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    <a href="https://bigfullstack.framer.website/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
     <a href="https://discord.gg/dEYrqe4pdY"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+YQSN2GPCwrBiOTRh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
