@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    I'm <b>Alessandro Corradini</b><br />
-    Welcome to <b>topdev0215</b>
+    I'm <b>Carlie Kuphal</b><br />
+    Welcome to <b>toptech126</b>
 
 </h1>
 
