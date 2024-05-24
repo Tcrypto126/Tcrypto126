@@ -13,15 +13,6 @@
     <!-- github -->
     <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
 </div>
-
-## Skills
-- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
-- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
-- 📲 Mobile: Android, React Native, Ionic, Flutter
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
-- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
   
 <div align="center">
 <!-- website -->
@@ -35,6 +26,15 @@
     <a href="mailto:a.corradini@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
+
+## Skills
+- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
+- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
+- 📲 Mobile: Android, React Native, Ionic, Flutter
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
 
 ### ABOUT ME
 
