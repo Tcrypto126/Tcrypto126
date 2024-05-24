@@ -2,9 +2,18 @@
     Hi <img src="./assets/Hi.gif" width="30px"><br>
     I'm <b>Carlie Kuphal</b><br />
     Welcome to <b>toptech126</b>
-
 </h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;Senior+Software+Developer)]()
 
+## Skills
+- ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
+- 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
+- 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs, PHP
+- 📲 Mobile: Android, React Native, Ionic, Flutter
+- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
+- 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
+- 
 <div align="center"> 
     <a href="http://github.com/toptech126?tab=followers">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
