@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
     I'm <b>Carlie Kuphal</b><br />
-    Welcome to <b>toptech126</b>
+    Welcome to <b>Senior WordPress and Full-stack developer : toptech126</b>
 </h1> 
 
 <div align="center"> 
