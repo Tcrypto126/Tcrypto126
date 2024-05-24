@@ -4,6 +4,15 @@
     Welcome to <b>toptech126</b>
 </h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Blockchain+Developer;Senior+Software+Developer)]()
+  
+<div align="center"> 
+    <a href="http://github.com/toptech126?tab=followers">
+    <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
+    <a href="http://github.com/topdev0215?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/toptech126?color=4C1&logo=github"></a>
+    <!-- github -->
+    <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
+</div>
 
 ## Skills
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
@@ -13,15 +22,7 @@
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
-- 
-<div align="center"> 
-    <a href="http://github.com/toptech126?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/toptech126?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
-</div>
+  
 <div align="center">
 <!-- website -->
     <a href="https://www.linkedin.com/in/kaori-fujio-b534a9303/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
