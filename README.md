@@ -28,10 +28,10 @@
 
 ### ABOUT ME
 
-- **Looking to work on position:** Senior AI developer
-- **Interested in:** Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), Web project(MERN, Ruby on Rails, GraphQL, Web3, Webflow, Wordpress)
-- **Hobby:** tabletenis, badminton
-- **Email:** &nbsp; <a href="mailto:a.corradini0215@gmail.com" target="_blank">a.corradini0215@gmail.com</a>
+- **Looking to work on position:** Senior WordPress and Full-stack developer
+- **Interested in:** Web project(Wordpress, MERN, Laravel and vue.js, Ruby on Rails, GraphQL, Web3, Webflow), Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), 
+- **Hobby:** tabletenis, badminton, pingpong
+- **Email:** &nbsp; <a href="mailto:carlie197821@gmail.com" target="_blank">carlie197821@gmail.com</a>
 
 ### STUDY
 
