@@ -4,9 +4,9 @@
 </h1> 
 
 <div align="center"> 
-    <a href="http://github.com/toptech126?tab=followers">
+    <a href="http://github.com/toptech126/">
     <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
-    <a href="http://github.com/topdev0215?tab=followers">
+    <a href="http://github.com/toptech126?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/toptech126?color=4C1&logo=github"></a>
     <!-- github -->
     <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
