@@ -20,14 +20,13 @@
     </a>
     <a href="https://discord.gg/NngzNK53"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+Pm7JHQkDX3E4Nzlh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="https://join.slack.com/t/topdev0215/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
     <a href="mailto:a.carlie197821@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
 ### ABOUT ME
 
-- **Looking to work on position:** Senior WordPress, Blockchain, and Full-stack developer
+- **Looking to work on position:** Senior WordPress, Blockchain, AI, and Full-stack developer
 - **Interested in:** Web project(Wordpress, MERN, Laravel and vue.js, Ruby on Rails, GraphQL, Web3, Webflow), Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), 
 - **Hobby:** tabletenis, badminton, pingpong
 - **Email:** &nbsp; <a href="mailto:carlie197821@gmail.com" target="_blank">carlie197821@gmail.com</a>
@@ -64,31 +63,31 @@
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href='https://coursera.org/verify/BSZB95S5D29S' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="150" />
         <br>Crash Course in Data Science
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://github.com/topdev0215' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/google formazione.png" alt="Training in digital marketing" width="2000" height="150" />
         <br>Training in digital marketing
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/verify/LXBADF958QSJ' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="150" />
         <br>Algorithms for DNA Sequencing
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/specialization/F56GEH47VD4P' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="150" />
         <br>Applied Data Science with Python
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/verify/JBM73C3QDGTA' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="150" />
         <br>Plotting, Charting & Data Representation
         </a>
@@ -96,7 +95,7 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href='https://coursera.org/verify/UVDLJEQTQCVA' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="150" />
         <br>Applied Text Mining in Python
         </a>
@@ -114,13 +113,13 @@
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://coursera.org/verify/GD9DATG8RPRA' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/convolutional neural networks.png" alt="graphql certification" width="2000" height="150" />
         <br>Convolutional Neural Networks
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.coursera.org/account/accomplishments/specialization/QG2MRYRGZ7U2' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/deep learning.png" alt="graphql certification" width="2000" height="150" />
         <br>Deep Learning Certification
         </a>
@@ -128,7 +127,7 @@
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href='https://coursera.org/verify/VK5M6SKZFX58' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/graph analytics for big data.png" alt="Graph Analytics for Big Data" width="2000" height="150" />
         <br>Graph Analytics for Big Data
         </a>
@@ -140,27 +139,25 @@
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https:// coursera.org/verify/8ZEHM4P5U37Y' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/leveraging unstructured data.png" alt="Leveraging Unstructured Data" width="2000" height="150" />
         <br>Leveraging Unstructured Data
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://courses.edx.org/certificates/3c6d275a88c2477e916be282e6495b63' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/foundation of data analysis.png" alt="Foundations of Data Analysis" width="2000" height="150" />
         <br>Foundations of Data Analysis
         </a>
     </td>
     <td align="center" width="300">
-      <a href='https://www.apollographql.com/tutorials/certifications/bb7b3d18-799f-43d8-b117-8286e4a3c0e3' target="_blank" role="button">
+      <a href="#">
           <img src="./assets/certificates/graph developer.png" alt="graphql certification" width="2000" height="150" />
         <br>Graph Developer Certification
         </a>
     </td>
   </tr>
 </table>
-
-✅You can find all my certifications in 🥉https://github.com/topdev0215/My-Certifications🥇
 
 ### TECHNOLOGY
 
