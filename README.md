@@ -19,7 +19,7 @@
     <a href="https://bigfullstack.framer.website/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
     <a href="https://discord.gg/NngzNK53"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://t.me/+Pm7JHQkDX3E4Nzlh"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
+    <a href="https://t.me/+86fAmw2pL9U1ZGMx"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
     <a href="mailto:a.carlie197821@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
