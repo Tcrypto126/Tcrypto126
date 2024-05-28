@@ -58,106 +58,25 @@
     </tr>
 </table>
 
-### CERTIFICATIONS
+<img align="" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/Data Science.png" alt="graphql certification" width="2000" height="150" />
-        <br>Crash Course in Data Science
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/google formazione.png" alt="Training in digital marketing" width="2000" height="150" />
-        <br>Training in digital marketing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/algorithms for dna sequencing.png" alt="graphql certification" width="2000" height="150" />
-        <br>Algorithms for DNA Sequencing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/Data Science with Python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Applied Data Science with Python
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/Plotting, Charting & Data Representation in Python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Plotting, Charting & Data Representation
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/text mining in python.png" alt="graphql certification" width="2000" height="150" />
-        <br>Applied Text Mining in Python
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/specialization/ZL7897WHQSQH' target="_blank" role="button">
-          <img src="./assets/certificates/archtecting with google cloud platform.png" alt="graphql certification" width="2000" height="150" />
-        <br>Architecting with Google Cloud
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https://coursera.org/verify/S9WNZVZUD4P3' target="_blank" role="button">
-          <img src="./assets/certificates/Architecting with Google Kubernetes Engine(workloads).png" alt="graphql certification" width="2000" height="150" />
-        <br>Google Kubernetes Engine
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/convolutional neural networks.png" alt="graphql certification" width="2000" height="150" />
-        <br>Convolutional Neural Networks
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/deep learning.png" alt="graphql certification" width="2000" height="150" />
-        <br>Deep Learning Certification
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/graph analytics for big data.png" alt="Graph Analytics for Big Data" width="2000" height="150" />
-        <br>Graph Analytics for Big Data
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href='https:// coursera.org/verify/ZNGQXQXMR3WY' target="_blank" role="button">
-          <img src="./assets/certificates/image and video processing.png" alt="Image and Video Processing" width="2000" height="150" />
-        <br>Image and Video Processing
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/leveraging unstructured data.png" alt="Leveraging Unstructured Data" width="2000" height="150" />
-        <br>Leveraging Unstructured Data
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/foundation of data analysis.png" alt="Foundations of Data Analysis" width="2000" height="150" />
-        <br>Foundations of Data Analysis
-        </a>
-    </td>
-    <td align="center" width="300">
-      <a href="#">
-          <img src="./assets/certificates/graph developer.png" alt="graphql certification" width="2000" height="150" />
-        <br>Graph Developer Certification
-        </a>
-    </td>
-  </tr>
-</table>
+<div align="center" >
+<a  href="https://github.com/venuswhispers">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+</a>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 ### TECHNOLOGY
 
