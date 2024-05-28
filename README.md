@@ -39,26 +39,8 @@
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, AES Lambda, Spring Cloud
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
-  
-### STUDY
 
-<table style="border-collapse: collapse;">
-    <tr>
-        <td align="center">
-        <a href="https://www.uniroma1.it/en/pagina-strutturale/home">
-            <img src="./assets/logo.png" alt="hcmus logo" width="120px">
-        </a>
-        </td>
-        <td>
-            <h3 style="margin: 0;">Sapienza University of Rome
-</h3> 
-            <sup style="color: gray;">2011 - 2015</sup>
-            <p>Bachelor of <b>Computer Network and Information Security</b></p>
-        </td>
-    </tr>
-</table>
-
-<img align="" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 <div align="center" >
 <a  href="https://github.com/venuswhispers">
