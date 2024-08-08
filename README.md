@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    Welcome to <b>Senior WordPress, Blockchain, AI, and Full-stack developer : toptech126</b>
+    Welcome to <b>Senior Blockchain and Full-stack developer : toptech126</b>
 </h1> 
 
 <div align="center"> 
