@@ -1,26 +1,27 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    Welcome to <b>Senior Blockchain and Full-stack developer : toptech126</b>
+    Welcome to <b>Senior Blockchain and Full-stack developer : Tcrypto126</b>
 </h1> 
 
 <div align="center"> 
-    <a href="http://github.com/toptech126/">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=toptech126&color=blue"></a>
-    <a href="http://github.com/toptech126?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/toptech126?color=4C1&logo=github"></a>
+    <a href="http://github.com/Tcrypto126/">
+    <img alt="Followers" src="https://komarev.com/ghpvc/?username=Tcrypto126&color=blue"></a>
+    <a href="http://github.com/Tcrypto126?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/Tcrypto126?color=4C1&logo=github"></a>
     <!-- github -->
-    <a href="http://github.com/toptech126/toptech126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/toptech126/toptech126?label=Profile%20update&style=fflat-square"></a>
+    <a href="http://github.com/Tcrypto126/Tcrypto126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tcrypto126/Tcrypto126?label=Profile%20update&style=fflat-square"></a>
 </div>
   
 <div align="center">
 <!-- website -->
-    <a href="https://www.linkedin.com/in/kaori-fujio-b534a9303/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/kaori-fujio-99950b32a![image](https://github.com/user-attachments/assets/a8f60972-3262-433f-92ea-dd96ebf11551)
+"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
     </a>
     <a href="https://bigfullstack.framer.website/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
-    <a href="https://discord.gg/NngzNK53"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
+    <a href="https://discord.gg/nPg5Ds7PR8"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://t.me/+86fAmw2pL9U1ZGMx"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="mailto:a.carlie197821@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="mailto:a.technt22@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
