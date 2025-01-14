@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
-    Welcome to <b>Senior Blockchain and Full-stack developer : Tcrypto126</b>
+    Welcome to <b>Front-end, Back-end and Blockchain Developer : Tcrypto126</b>
 </h1> 
 
 <div align="center"> 
