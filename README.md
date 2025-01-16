@@ -1,7 +1,9 @@
-<h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"><br>
-    Welcome to <b>Front-end, Back-end and Blockchain Developer : Tcrypto126</b>
+
+<h1 align="left">
+    <b>Blockchain || Full-stack || WordPress Developer</b>
 </h1> 
+
+I am a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, crypto incorporates the latest industry trends and best practices. Through continuous learning and exploration, Crypto transforms ideas into reality, showcasing the power of technological advancements in the digital realm
 
 <div align="center"> 
     <a href="http://github.com/Tcrypto126/">
@@ -14,23 +16,22 @@
   
 <div align="center">
 <!-- website -->
-    <a href="https://www.linkedin.com/in/kaori-fujio-99950b32a![image](https://github.com/user-attachments/assets/a8f60972-3262-433f-92ea-dd96ebf11551)
-"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/www.linkedin.com/in/kaori-fujio-1215a6345/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
     </a>
     <a href="https://bigfullstack.framer.website/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
     </a>
-    <a href="https://discord.gg/nPg5Ds7PR8"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://t.me/+86fAmw2pL9U1ZGMx"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="mailto:a.technt22@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+    <a href="https://discord.gg/GjzHSwRCxt"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
+    <a href="https://t.me/superman_1206"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
+    <a href="mailto:superdev19782@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
 ### ABOUT ME
 
-- **Looking to work on position:** Senior WordPress, Blockchain, AI, and Full-stack developer
-- **Interested in:** Web project(Wordpress, MERN, Laravel and vue.js, Ruby on Rails, GraphQL, Web3, Webflow), Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), 
-- **Hobby:** tabletenis, badminton, pingpong
-- **Email:** &nbsp; <a href="mailto:carlie197821@gmail.com" target="_blank">carlie197821@gmail.com</a>
+- Blockchain, Full-stack and WordPress developer
+- Blockchain project(Defi and Dex platform, NFT market platform, Trading bot), Web project(Wordpress, MERN, Laravel and vue.js, Ruby on Rails, GraphQL, Web3, Webflow), Data science, AI project(Prompt Engineering, Data Scraping, NLP, Generative AI), 
+- Programming, Reading, Pingpong
+- **Email:** &nbsp; <a href="mailto:superdev19782@gmail.com" target="_blank">superdev19782@gmail.com</a>
 
 ## Skills
 - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Smart contracts, Cryptography, Distributed Systems
@@ -41,10 +42,9 @@
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
 
-<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
 <div align="center" >
-<a  href="https://github.com/venuswhispers">
+<a  href="https://github.com/Tcrypto126">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -52,14 +52,6 @@
 </a>
   
 <hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 ### TECHNOLOGY
 
@@ -222,45 +214,9 @@
  </tr>
 </table>
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=topdev0215&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-<p align="center">
-<a href="https://github.com/topdev0215?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=topdev0215&theme=onestar&no-frame=true&column=3&row=2"  width="50%" height="50%" alt="@Goblin's trophy stats"/></a>
-</p>
-
-
-
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
-
-### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
-    <br />
-    <p align="center">
-        <a href="https://github.com/topdev0215?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p>
-
-</p>
-
-<b>☄️ Github Streaks</b>
-  
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=topdev0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
