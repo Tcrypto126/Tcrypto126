@@ -218,7 +218,9 @@ I am a dedicated web developer on a mission to push boundaries and deliver innov
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 
-
+<!-- <div align="center" >
+<img src="./Data Science with Python.png" width="700px" height="500px" alt="cert" />
+</div> -->
 
 <br/>  
 
