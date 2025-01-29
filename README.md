@@ -1,6 +1,6 @@
 
 <h1 align="left">
-    <b>Blockchain || Full-stack || WordPress Developer</b>
+    <b>Senior Software Engineer.</b>
 </h1> 
 
 I am a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, crypto incorporates the latest industry trends and best practices. Through continuous learning and exploration, Crypto transforms ideas into reality, showcasing the power of technological advancements in the digital realm
@@ -13,18 +13,6 @@ I am a dedicated web developer on a mission to push boundaries and deliver innov
     <!-- github -->
     <a href="http://github.com/Tcrypto126/Tcrypto126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tcrypto126/Tcrypto126?label=Profile%20update&style=fflat-square"></a>
 </div>
-  
-<div align="center">
-<!-- website -->
-<!--     <a href="https://www.linkedin.com/in/www.linkedin.com/in/kaori-fujio-1215a6345/"><img alt="Website badge" src="https://img.shields.io/badge/Linkedin-0099ff?logo=linkedin&logoColor=white">
-    </a> -->
-    <a href="https://bigfullstack.framer.website/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
-    </a>
-    <a href="https://discord.gg/GjzHSwRCxt"><img alt="Discord badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://t.me/superman_1206"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
-    <a href="mailto:superdev19782@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
-</div>
-<br>
 
 ### ABOUT ME
 
