@@ -1,6 +1,5 @@
 <h1 align="left">
-    <i>💫<b>Senior Software Engineer.
-</b>💫</i>
+    <i><b>💫Senior Software Engineer.💫</b></i>
 </h1> 
 
 I am a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, crypto incorporates the latest industry trends and best practices. Through continuous learning and exploration, Crypto transforms ideas into reality, showcasing the power of technological advancements in the digital realm
