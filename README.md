@@ -1,5 +1,5 @@
 <h1 align="left">
-    <i>💫 Senior Web developer 💫</i>
+    💫 Senior Web Developer 💫
 </h1>
 
 **Cryptostar** is a dedicated blockchain developer and IT engineer committed to pushing the boundaries of technology and delivering innovative online solutions. With a strong emphasis on creating visually captivating and high-performance websites, **Cryptostar** integrates the latest industry trends and best practices into every project. Through continuous learning and exploration, **Cryptostar** transforms ideas into reality, demonstrating the immense potential of technological advancements in the digital landscape.
@@ -12,4 +12,5 @@
         <li>**Desktop App Development** with ElectronJS, Tauri, PyQT, QT etc. </li>
         <li>**AI Chatbot and AI Development** with RAG, NLP, ML, OpenAI, ChatGPT, Image generation, Voice cloning etc.</li>
         <li>**Bot Development** in Telegram Tap To Earn Game(like *Hamster Kombat*), Discord Bot, Automation tools.  </li>
+        <li>**CMS Development** using WordPress platform : Elementor & Divi builder, Theme and Plugin customization, SEO and ...</li>
       </ul>
