@@ -6,7 +6,7 @@
 
 <i><h3> My Main Skills</h3></i>
       <ul>
-        <li>**Fronend Develpment** with React, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.</li>
+        <li>**Frontend Develpment** with React, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React Native.</li>
         <li>**Backend Development** with Node.JS, Golang, Laravel,.NET, Ruby on rail, Flask, Django, AWS, GCP, GraphQL, Postgresql.</li>
         <li>**Blockchain Development** Smart Contract with Solidity & Rust, Go, Dex, Defi, cosmos-SDK, Defin, cross-chain, Crypto Trading Bot.</li>
         <li>**Desktop App Development** with ElectronJS, Tauri, PyQT, QT etc. </li>
