@@ -1,18 +1,8 @@
-
 <h1 align="left">
     <b>Senior Software Engineer.</b>
 </h1> 
 
 I am a dedicated web developer on a mission to push boundaries and deliver innovative online solutions. With a focus on creating visually stunning and performant websites, crypto incorporates the latest industry trends and best practices. Through continuous learning and exploration, Crypto transforms ideas into reality, showcasing the power of technological advancements in the digital realm
-
-<div align="center"> 
-    <a href="http://github.com/Tcrypto126/">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=Tcrypto126&color=blue"></a>
-    <a href="http://github.com/Tcrypto126?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/Tcrypto126?color=4C1&logo=github"></a>
-    <!-- github -->
-    <a href="http://github.com/Tcrypto126/Tcrypto126" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Tcrypto126/Tcrypto126?label=Profile%20update&style=fflat-square"></a>
-</div>
 
 ### ABOUT ME
 
